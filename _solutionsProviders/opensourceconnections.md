@@ -6,13 +6,17 @@ logo: /assets/media/partners/opensource-connections/osc-logomark-color.png
 link: https://www.opensourceconnections.com
 logo_large: /assets/media/partners/opensource-connections/opensource-connections-logo.png
 
-description: 'OpenSource Connections are leading specialists in search relevance, focused on open source technologies including OpenSearch. We help your tune your search engine to deliver the right results to delight your users. We wrote the Manning book Relevant Search, host the Haystack search conference and run Relevance Slack, a 3500-person community.'
-contact: 'hello@opensourceconnections.com, +1 (434) 466-1467, +44 (08700) 118334'
+description: |
+  We are the leading specialists in maximising the value out of your investment in the OpenSearch platform for Search use cases.  We have been involved in the project since 2022 and actively contributing .  <br/><br/>
+  
+  We wrote the Manning book Relevant Search, host the Haystack search conference and run Relevance Slack, a 3500-person community.
+  
+contact: <a href="mailto:hello@opensourceconnections.com">hello@opensourceconnections.com</a>
 
 region:           North America,Europe
 industries:       Business Services,Consumer Services,Education,Energy and Utilities,Healthcare,Media and Entertainment,Public Sector,Non-Profit,Retail and e-Commerce,Software and Technology,Financial Services
 business_type:    Consultancy,Professional Services,Training
-opensearch_tech:  Search
+opensearch_tech:  Search, Analytics, Machine Learning and AI
 
 
 
@@ -20,6 +24,9 @@ multiple_office_locations:
   - name: 'USA'
     location: |
       Charlottesville, Virginia
+  - name: 'USA'
+    location: |
+      New York City, New York      
   - name: 'Europe'
     location: |
        Berlin, Germany
@@ -41,5 +48,30 @@ resources:
     type: 'blog'
 products:
   - description: '<ul><li>Think Like a Relevance Engineer Training for OpenSearch</li><li>OpenSearch consulting on search relevance</li><li>Free Quepid tool for search tuning is compatible with OpenSearch</li></ul>'
+  - url: 'https://www.opensourceconnections.com/training'
+    name: 'Think Like a Relevance Engineer Training for OpenSearch'
+    description: |
+      <p> blah, blah blah.</p> 
+      <ul> 
+          <li>Gather Human Judgements</li> 
+          <li>Track Relevancy Metrics Over Time</li> 
+          <li>Works with custom Search APIs</li> 
+          <li>Supports LLM-as-a-Judge use case</li> 
+      </ul>    
+  - url: 'https://www.quepidapp.com/'
+    name: 'Quepid Relevance Tuning Platform'
+    description: |
+      <p> Platform for Relevancy Improvement, compatible with OpenSearch.</p> 
+      <ul> 
+          <li>Gather Human Judgements</li> 
+          <li>Track Relevancy Metrics Over Time</li> 
+          <li>Works with custom Search APIs</li> 
+          <li>Supports LLM-as-a-Judge use case</li> 
+      </ul>  
 
+social_links:
+  - url: 'https://www.linkedin.com/company/mcplusa/'
+    icon: 'linkedin'
+  - url: 'https://github.com/o19s'
+    icon: 'github'
 ---
