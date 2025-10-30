@@ -70,7 +70,7 @@ products:
       </ul>  
 
 social_links:
-  - url: 'https://www.linkedin.com/company/mcplusa/'
+  - url: 'https://www.linkedin.com/company/opensource-connections/'
     icon: 'linkedin'
   - url: 'https://github.com/o19s'
     icon: 'github'
