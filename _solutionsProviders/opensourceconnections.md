@@ -9,21 +9,21 @@ logo_large: /assets/media/partners/opensource-connections/opensource-connections
 description: |
   Whether you are just starting your search and AI journey, scaling advanced systems, or somewhere in between, our search and AI experts can help you accelerate your efforts—transforming user satisfaction and business results. 
 
-  Strategic Guidance
-
+  <b>Strategic Guidance</b>
+  <br/><br/>
   At OpenSource Connections, we partner with organizations of all sizes—from growing mid-sized companies to Fortune 500 enterprises—to unlock the full potential of their search and AI capabilities using OpenSearch and other platforms. Whether you're building your first search measurement framework or exploring cutting-edge AI applications, we craft strategic solutions designed specifically for your organization's goals and challenges.
 
-  Hands-On Implementation
-
+  <b>Hands-On Implementation</b>
+  <br/><br/>
   From strategy to execution, we're there when you need us. We work directly alongside your team to bring solutions to life—from migrating search engines and fine-tuning relevance to architecting entirely new platforms. We integrate search and AI to create experiences that truly move the needle for your users.
 
-  Specialized Training 
-
+  <b>Specialized Training </b>
+  <br/><br/>
   We empower your team to maintain and evolve your search and AI capabilities for the long term through customized learning and training. Our 'Think Like a Relevance Engineer' course teaches OpenSearch tuning from the ground up. Expert relevance engineers lead the training, available in self-paced or private formats tailored to your needs.
   Ready to unleash AI that gives users exactly what they're looking for? 
-
+  <br/><br/>
   Move beyond traditional search results to deliver intelligent answers that solve real problems and ensure your AI investment delivers measurable business value.
-
+  <br/><br/>
   Contact us to learn how OpenSource Connections can help you supercharge your search and AI.
   
 contact: <a href="mailto:hello@opensourceconnections.com">hello@opensourceconnections.com</a>
@@ -46,43 +46,26 @@ multiple_office_locations:
     location: |
        Berlin, Germany
 resources:
-  - url: 'https://opensourceconnections.com/blog/2022/10/03/opensearchcon-2022/'
-    title: 'OpenSearchCon 2022'
+  - url: 'https://opensourceconnections.com/training/llms-as-judges-for-search-result-quality/'
+    title: 'LLMs as Judges for Search Result Quality'
     thumbnail: '/assets/media/partners/opensource-connections/opensearchcon-2022.jpg'
     aspect_ratio: '215∶104'
+    type: 'training'
+  - url: 'https://opensourceconnections.com/blog/'
+    title: 'OpenSource Connections - Trends in Search Blog'
+    thumbnail: '/assets/media/partners/zeta-alpha/zeta-alpha-blog.png'
     type: 'blog'
-  - url: 'https://opensourceconnections.com/blog/2023/03/22/building-vector-search-in-chorus-a-technical-deep-dive/'
-    title: 'Building Vector Search in Chorus: A Technical Deep Dive'
-    thumbnail: '/assets/media/partners/opensource-connections/HAYSTACK_www-69.jpg'
-    aspect_ratio: '215∶143'
-    type: 'blog'
-  - url: 'https://opensourceconnections.com/blog/2022/09/20/opensearch-comes-of-age/'
-    title: 'And Then There Were Three – OpenSearch comes of age'
-    thumbnail: '/assets/media/partners/opensource-connections/telescope.png'
-    aspect_ratio: '215∶143'
-    type: 'blog'
-products:
-  - description: '<ul><li>Think Like a Relevance Engineer Training for OpenSearch</li><li>OpenSearch consulting on search relevance</li><li>Free Quepid tool for search tuning is compatible with OpenSearch</li></ul>'
-  - url: 'https://www.opensourceconnections.com/training'
-    name: 'Think Like a Relevance Engineer Training for OpenSearch'
-    description: |
-      <p> blah, blah blah.</p> 
-      <ul> 
-          <li>Gather Human Judgements</li> 
-          <li>Track Relevancy Metrics Over Time</li> 
-          <li>Works with custom Search APIs</li> 
-          <li>Supports LLM-as-a-Judge use case</li> 
-      </ul>    
+  - url: 'https://www.youtube.com/@OpenSourceConnections'
+    title: '@OpenSourceConnections YouTube Channel'
+    thumbnail: '/assets/media/partners/zeta-alpha/zeta-alpha-youtube.png'
+    type: 'video'
+products: 
   - url: 'https://www.quepidapp.com/'
-    name: 'Quepid Relevance Tuning Platform'
-    description: |
-      <p> Platform for Relevancy Improvement, compatible with OpenSearch.</p> 
-      <ul> 
-          <li>Gather Human Judgements</li> 
-          <li>Track Relevancy Metrics Over Time</li> 
-          <li>Works with custom Search APIs</li> 
-          <li>Supports LLM-as-a-Judge use case</li> 
-      </ul>  
+    name: 'Training in blah and blah'
+  - url: 'https://opensourceconnections.com/generative-ai-consulting/'
+    name: 'Generative AI Consulting'
+  - url: 'https://www.quepidapp.com/'
+    name: 'Quepid Relevance Tuning Platform'      
 
 social_links:
   - url: 'https://www.linkedin.com/company/opensource-connections/'
