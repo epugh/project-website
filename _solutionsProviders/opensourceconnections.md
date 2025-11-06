@@ -8,15 +8,15 @@ logo_large: /assets/media/partners/opensource-connections/opensource-connections
 
 description: |
   Whether you are just starting your search and AI journey, scaling advanced systems, or somewhere in between, our search and AI experts can help you accelerate your efforts—transforming user satisfaction and business results. 
-
+  <br/><br/>
   <b>Strategic Guidance</b>
   <br/><br/>
   At OpenSource Connections, we partner with organizations of all sizes—from growing mid-sized companies to Fortune 500 enterprises—to unlock the full potential of their search and AI capabilities using OpenSearch and other platforms. Whether you're building your first search measurement framework or exploring cutting-edge AI applications, we craft strategic solutions designed specifically for your organization's goals and challenges.
-
+  <br/><br/>
   <b>Hands-On Implementation</b>
   <br/><br/>
   From strategy to execution, we're there when you need us. We work directly alongside your team to bring solutions to life—from migrating search engines and fine-tuning relevance to architecting entirely new platforms. We integrate search and AI to create experiences that truly move the needle for your users.
-
+  <br/><br/>
   <b>Specialized Training </b>
   <br/><br/>
   We empower your team to maintain and evolve your search and AI capabilities for the long term through customized learning and training. Our 'Think Like a Relevance Engineer' course teaches OpenSearch tuning from the ground up. Expert relevance engineers lead the training, available in self-paced or private formats tailored to your needs.
