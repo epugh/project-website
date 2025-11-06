@@ -7,9 +7,24 @@ link: https://www.opensourceconnections.com
 logo_large: /assets/media/partners/opensource-connections/opensource-connections-logo.png
 
 description: |
-  We are the leading specialists in maximising the value out of your investment in the OpenSearch platform for Search use cases.  We have been involved in the project since 2022 and actively contributing .  <br/><br/>
-  
-  We wrote the Manning book Relevant Search, host the Haystack search conference and run Relevance Slack, a 3500-person community.
+  Whether you are just starting your search and AI journey, scaling advanced systems, or somewhere in between, our search and AI experts can help you accelerate your efforts—transforming user satisfaction and business results. 
+
+  Strategic Guidance
+
+  At OpenSource Connections, we partner with organizations of all sizes—from growing mid-sized companies to Fortune 500 enterprises—to unlock the full potential of their search and AI capabilities using OpenSearch and other platforms. Whether you're building your first search measurement framework or exploring cutting-edge AI applications, we craft strategic solutions designed specifically for your organization's goals and challenges.
+
+  Hands-On Implementation
+
+  From strategy to execution, we're there when you need us. We work directly alongside your team to bring solutions to life—from migrating search engines and fine-tuning relevance to architecting entirely new platforms. We integrate search and AI to create experiences that truly move the needle for your users.
+
+  Specialized Training 
+
+  We empower your team to maintain and evolve your search and AI capabilities for the long term through customized learning and training. Our 'Think Like a Relevance Engineer' course teaches OpenSearch tuning from the ground up. Expert relevance engineers lead the training, available in self-paced or private formats tailored to your needs.
+  Ready to unleash AI that gives users exactly what they're looking for? 
+
+  Move beyond traditional search results to deliver intelligent answers that solve real problems and ensure your AI investment delivers measurable business value.
+
+  Contact us to learn how OpenSource Connections can help you supercharge your search and AI.
   
 contact: <a href="mailto:hello@opensourceconnections.com">hello@opensourceconnections.com</a>
 
