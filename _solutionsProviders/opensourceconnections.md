@@ -11,7 +11,7 @@ description: |
   <br/><br/>
   <b>Strategic Guidance</b>
   <br/><br/>
-  At OpenSource Connections, we partner with organizations of all sizes—from growing mid-sized companies to Fortune 500 enterprises—to unlock the full potential of their search and AI capabilities using OpenSearch and other platforms. Whether you're building your first search measurement framework or exploring cutting-edge AI applications, we craft strategic solutions designed specifically for your organization's goals and challenges.
+  At OpenSource Connections, we partner with <a href="https://opensourceconnections.com/results/">organizations of all sizes</a>—from growing mid-sized companies to Fortune 500 enterprises—to unlock the full potential of their search and AI capabilities using OpenSearch and other platforms. Whether you're building your first search measurement framework or exploring cutting-edge AI applications, we craft strategic solutions designed specifically for your organization's goals and challenges.
   <br/><br/>
   <b>Hands-On Implementation</b>
   <br/><br/>
@@ -48,25 +48,26 @@ multiple_office_locations:
        Berlin, Germany
 resources:
   - url: 'https://opensourceconnections.com/training/llms-as-judges-for-search-result-quality/'
-    title: 'LLMs as Judges for Search Result Quality'
-    thumbnail: '/assets/media/partners/opensource-connections/opensearchcon-2022.jpg'
+    title: 'Training: LLMs as Judges for Search Result Quality'
+    thumbnail: '/assets/media/partners/opensource-connections/training.png'
     aspect_ratio: '215∶104'
     type: 'training'
-  - url: 'https://opensourceconnections.com/blog/'
-    title: 'OSC Insights - Blogging by our Team'
-    thumbnail: '/assets/media/partners/zeta-alpha/zeta-alpha-blog.png'
+  - url: 'https://www/opensourceconnections.com/blog/'
+    title: 'OSC Insights - Our blog'
+    thumbnail: '/assets/media/partners/opensource-connections/osc-blog.png'
+    aspect_ratio: '215∶104'
     type: 'blog'
-  - url: 'https://www.youtube.com/@OpenSourceConnections'
-    title: '@OpenSourceConnections YouTube Channel'
-    thumbnail: '/assets/media/partners/zeta-alpha/zeta-alpha-youtube.png'
+  - url: 'https://opensourceconnections.com/about-us/videos-about-search/'
+    title: 'Videos of our talks and events on search and AI'
+    thumbnail: '/assets/media/partners/opensource-connections/videos-of-presentations.png'
     type: 'video'
 products: 
-  - url: 'https://www.quepidapp.com/'
-    name: 'Training in blah and blah'
-  - url: 'https://opensourceconnections.com/generative-ai-consulting/'
+  - url: 'http://www.opensourceconnections.com/'
+    name: 'AI-powered Search - strategic consulting and hands-on implementation'
+  - url: 'https://www.opensourceconnections.com/generative-ai-consulting/'
     name: 'Generative AI Consulting'
-  - url: 'https://www.quepidapp.com/'
-    name: 'Quepid Relevance Tuning Platform'      
+  - url: 'https://www.opensourceconnections.com/training/'
+    name: 'Search- and AI-related trainings'      
 
 social_links:
   - url: 'https://www.linkedin.com/company/opensource-connections/'
