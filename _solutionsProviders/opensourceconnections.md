@@ -19,12 +19,13 @@ description: |
   <br/><br/>
   <b>Specialized Training </b>
   <br/><br/>
-  We empower your team to maintain and evolve your search and AI capabilities for the long term through customized learning and training. Our 'Think Like a Relevance Engineer' course teaches OpenSearch tuning from the ground up. Expert relevance engineers lead the training, available in self-paced or private formats tailored to your needs.
+  We empower your team to maintain and evolve your search and AI capabilities for the long term through customized learning and training. Our <a href="https://opensourceconnections.com/training/opensearch-training-think-like-a-relevance-engineer-tlre/">Think Like a Relevance Engineer</a> course teaches OpenSearch tuning from the ground up. Expert relevance engineers lead the training, available in self-paced or private formats tailored to your needs.
+  <br/><br/>
   Ready to unleash AI that gives users exactly what they're looking for? 
   <br/><br/>
   Move beyond traditional search results to deliver intelligent answers that solve real problems and ensure your AI investment delivers measurable business value.
   <br/><br/>
-  Contact us to learn how OpenSource Connections can help you supercharge your search and AI.
+  Contact us to learn how OpenSource Connections can help you supercharge your search and AI.  Visit <a href="http://www.OpenSourceConnections.com">opensourceconnections.com</a> for more information.
   
 contact: <a href="mailto:hello@opensourceconnections.com">hello@opensourceconnections.com</a>
 
@@ -52,7 +53,7 @@ resources:
     aspect_ratio: '215∶104'
     type: 'training'
   - url: 'https://opensourceconnections.com/blog/'
-    title: 'OpenSource Connections - Trends in Search Blog'
+    title: 'OSC Insights - Blogging by our Team'
     thumbnail: '/assets/media/partners/zeta-alpha/zeta-alpha-blog.png'
     type: 'blog'
   - url: 'https://www.youtube.com/@OpenSourceConnections'
@@ -72,4 +73,6 @@ social_links:
     icon: 'linkedin'
   - url: 'https://github.com/o19s'
     icon: 'github'
+  - url: 'https://opensourceconnections.com/slack'
+    icon: 'slack'    
 ---
