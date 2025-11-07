@@ -17,11 +17,11 @@ description: |
   <br/><br/>
   From strategy to execution, we're there when you need us. We work directly alongside your team to bring solutions to life—from migrating search engines and fine-tuning relevance to architecting entirely new platforms. We integrate search and AI to create experiences that truly move the needle for your users.
   <br/><br/>
-  <b>Specialized Training </b>
+  <b>Specialized Training</b>
   <br/><br/>
   We empower your team to maintain and evolve your search and AI capabilities for the long term through customized learning and training. Our <a href="https://opensourceconnections.com/training/opensearch-training-think-like-a-relevance-engineer-tlre/">Think Like a Relevance Engineer</a> course teaches OpenSearch tuning from the ground up. Expert relevance engineers lead the training, available in self-paced or private formats tailored to your needs.
   <br/><br/>
-  Ready to unleash AI that gives users exactly what they're looking for? 
+  <b>Ready to unleash AI that gives users exactly what they're looking for?</b>
   <br/><br/>
   Move beyond traditional search results to deliver intelligent answers that solve real problems and ensure your AI investment delivers measurable business value.
   <br/><br/>
