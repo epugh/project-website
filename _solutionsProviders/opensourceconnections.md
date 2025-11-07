@@ -10,19 +10,19 @@ description: |
   Whether you are just starting your search and AI journey, scaling advanced systems, or somewhere in between, our search and AI experts can help you accelerate your efforts—transforming user satisfaction and business results. 
   <br/><br/>
   <b>Strategic Guidance</b>
-  <br/><br/>
+  <br/>
   At OpenSource Connections, we partner with <a href="https://opensourceconnections.com/results/">organizations of all sizes</a>—from growing mid-sized companies to Fortune 500 enterprises—to unlock the full potential of their search and AI capabilities using OpenSearch and other platforms. Whether you're building your first search measurement framework or exploring cutting-edge AI applications, we craft strategic solutions designed specifically for your organization's goals and challenges.
   <br/><br/>
   <b>Hands-On Implementation</b>
-  <br/><br/>
+  <br/>
   From strategy to execution, we're there when you need us. We work directly alongside your team to bring solutions to life—from migrating search engines and fine-tuning relevance to architecting entirely new platforms. We integrate search and AI to create experiences that truly move the needle for your users.
   <br/><br/>
   <b>Specialized Training</b>
-  <br/><br/>
+  <br/>
   We empower your team to maintain and evolve your search and AI capabilities for the long term through customized learning and training. Our <a href="https://opensourceconnections.com/training/opensearch-training-think-like-a-relevance-engineer-tlre/">Think Like a Relevance Engineer</a> course teaches OpenSearch tuning from the ground up. Expert relevance engineers lead the training, available in self-paced or private formats tailored to your needs.
   <br/><br/>
   <b>Ready to unleash AI that gives users exactly what they're looking for?</b>
-  <br/><br/>
+  <br/>
   Move beyond traditional search results to deliver intelligent answers that solve real problems and ensure your AI investment delivers measurable business value.
   <br/><br/>
   Contact us to learn how OpenSource Connections can help you supercharge your search and AI.  Visit <a href="http://www.OpenSourceConnections.com">opensourceconnections.com</a> for more information.
