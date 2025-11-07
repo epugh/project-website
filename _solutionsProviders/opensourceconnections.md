@@ -32,7 +32,7 @@ contact: <a href="mailto:hello@opensourceconnections.com">hello@opensourceconnec
 region:           North America,Europe
 industries:       Business Services,Consumer Services,Education,Energy and Utilities,Healthcare,Media and Entertainment,Public Sector,Non-Profit,Retail and e-Commerce,Software and Technology,Financial Services
 business_type:    Consultancy,Professional Services,Training
-opensearch_tech:  Search, Analytics, Machine Learning and AI
+opensearch_tech:  Search, AI and Machine Learning
 
 
 
